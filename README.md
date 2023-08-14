@@ -1,1 +1,1 @@
-# mine2
+# my new repository
